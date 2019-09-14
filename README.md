@@ -1,7 +1,7 @@
 # bigdataversion2
 
 Descripción
-Repertorio Alojado en la URL https://github.com/pabloutem/bigdataversion2
+- Repertorio Alojado en la URL https://github.com/pabloutem/bigdataversion2
 para la recopilación de información entre paris y Knasta para fines coparativos entre otros.
 Repertorio creado por Pablo León y Carlos Alegria.
 
